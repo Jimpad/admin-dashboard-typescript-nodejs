@@ -22,7 +22,7 @@
   <!-- end:Icons-->
   <!-- begin:Logo -->
   <a>
-    <img src="src\assets\media\logos\logo.svg" alt="Logo" width="80" height="80">
+    <img src="src\assets\media\logo.svg" alt="Logo" width="80" height="80">
   </a>
   <!-- end:Logo >
 
